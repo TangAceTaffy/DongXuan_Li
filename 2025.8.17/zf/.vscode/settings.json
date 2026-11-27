@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "zf_common_headfile.h": "c",
+        "straightaway.h": "c",
+        "zf_device_imu660ra.h": "c",
+        "zf_device_imu_core.h": "c",
+        "zf_common_typedef.h": "c",
+        "iterator": "c",
+        "iostream": "cpp",
+        "seekfreepower.h": "c",
+        "ramp.h": "c"
+    }
+}
