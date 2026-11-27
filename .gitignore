@@ -1,0 +1,35 @@
+# ================= 编译产物（可由源码重新生成）=================
+Debug/
+Release/
+Objects/
+Listings/
+*.o
+*.d
+*.mk
+*.elf
+*.hex
+*.map
+*.a
+*.bin
+*.lst
+*.crf
+
+# =================  Eclipse / IDE 索引 =================
+.metadata/
+.pdom
+*.pdom
+*.xmi
+*.dox
+*.index
+.settings/
+
+# ================= 打包备份（已单独归档）=================
+*.zip
+*.rar
+*.7z
+
+# ================= 系统 / 编辑器 =================
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
